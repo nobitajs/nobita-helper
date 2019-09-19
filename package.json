@@ -1,6 +1,6 @@
 {
   "name": "nobita-helper",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "nobita-helper",
   "main": "lib/nobita-helper.js",
   "dependencies": {},
